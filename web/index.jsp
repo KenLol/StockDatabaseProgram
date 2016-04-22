@@ -37,7 +37,7 @@
     <a class="item" href="/index.jsp">
         <img src="http://www.wall-street.com/wp-content/uploads/2013/11/stocks-going-up.jpg">
     </a>
-    <a class="item">My Stocks testing push</a>
+    <a class="item">My Stocks </a>
     <a class="item">Recommended</a>
     <a class="item">Most Popular Stocks</a>
 
